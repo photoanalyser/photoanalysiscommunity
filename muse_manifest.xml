@@ -1,0 +1,82 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.photoanalyser.com" resolutions="1x" timestamp="1588694756650">
+  <folder name="css">
+    <file name="site_global.css" crc="4099528898"/>
+    <file name="index.css" crc="250927562" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="474374037" ref="index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="150306921" ref="index"/>
+    <file name="u94-5.png" crc="292139750" ref="index"/>
+    <file name="u103-4.png" crc="489110402" ref="index"/>
+    <file name="u144-4.png" crc="4204378720" ref="index"/>
+    <file name="u171-4.png" crc="319351368" ref="index"/>
+    <file name="u201-4.png" crc="4169256205" ref="index"/>
+    <file name="u226-4.png" crc="315088983" ref="index"/>
+    <file name="u255-4.png" crc="376126898" ref="index"/>
+    <file name="u307-4.png" crc="414272291" ref="index"/>
+    <file name="2_n.jpg" crc="3854170889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="3_o.jpg" crc="499779613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_o.jpg" crc="4259713919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_n.jpg" crc="4101432920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u407-5.png" crc="3811084586" ref="index"/>
+    <file name="u411-10.png" crc="164510696" ref="index"/>
+    <file name="u420-4.png" crc="4043512371" ref="index"/>
+    <file name="u427-7.png" crc="4198525720" ref="index"/>
+    <file name="snigdha_kar.jpg" crc="441231477" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u805-9.png" crc="3786826064" ref="index"/>
+    <file name="untitled-1.jpg" crc="3817412496" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="o.jpg" crc="4140491534" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u827-10.png" crc="309404450" ref="index"/>
+    <file name="untitled-.jpg" crc="221305878" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_n.jpg" crc="3871216133" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u472-10.png" crc="4120390034" ref="index"/>
+    <file name="u475-11.png" crc="4153377282" ref="index"/>
+    <file name="u653-4.png" crc="454581407" ref="index"/>
+    <file name="u880-6.png" crc="492696106" ref="index"/>
+    <file name="gmail.png" crc="4239879363" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u892-4.png" crc="4240394298" ref="index"/>
+    <file name="u889-4.png" crc="46686752" ref="index"/>
+    <file name="instagram.png" crc="3760620173" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="494669666" seo="true" mt="1588694639854" redirect="true"/>
+</manifest>
